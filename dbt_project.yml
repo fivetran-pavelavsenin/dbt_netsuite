@@ -4,5 +4,4 @@ config-version: 2
 
 vars:
   netsuite_source:
-    netsuite_database: pavsenin_azure
     netsuite_schema: netsuite_suiteanalytics
